@@ -55,11 +55,22 @@ img {
 /* #endregion */
 
 /* #region Header */
-.header {
-  border-bottom: 10px solid CORNFLOWER;
+.page-header {
+  border-bottom: 1px solid #e7e9fc;
 }
 .header-container {
   display: flex;
+  align-items: center;
+}
+.header-nav {
+  display: flex;
+  align-items: center;
+}
+
+.header-list {
+  display: flex;
+  align-items: center;
+  gap: 40px;
 }
 
 .header-logo {
@@ -71,6 +82,8 @@ img {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  padding: 24px 0;
+  margin-right: 76px;
 }
 
 .header-logo-black {
@@ -90,7 +103,10 @@ img {
 .header-contacts {
   font-style: normal;
 }
-
+.header-contacts-list {
+  display: flex;
+  align-items: center;
+}
 .header-contacts-link {
   color: #434455;
 }
