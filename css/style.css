@@ -55,9 +55,11 @@ img {
 /* #endregion */
 
 /* #region Header */
+.header {
+  border-bottom: 10px solid CORNFLOWER;
+}
 .header-container {
   display: flex;
-  border-bottom: 10px solid CORNFLOWER;
 }
 
 .header-logo {
