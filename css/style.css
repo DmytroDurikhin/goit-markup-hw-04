@@ -169,7 +169,7 @@ img {
   letter-spacing: 0.04em;
   cursor: pointer;
   margin: 0 auto;
-  min-width: 196px;
+  min-width: 169px;
 
   border: none;
 
@@ -251,7 +251,7 @@ img {
   gap: 24px;
 }
 .team-text {
-  padding: 32px 0;
+  padding: 32px 16px;
   background-color: #fff;
 }
 .team-name {
