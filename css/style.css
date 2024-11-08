@@ -251,7 +251,7 @@ img {
   gap: 24px;
 }
 .team-text {
-  padding: 32px 16px;
+  padding: 32px 0;
   background-color: #fff;
 }
 .team-name {
@@ -302,7 +302,7 @@ img {
   border-right: 1px solid #e7e9fc;
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
-  padding: 32px 0;
+  padding: 32px 16px;
 }
 .portfolio-subtitle {
   color: #2e2f42;
