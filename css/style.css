@@ -398,7 +398,7 @@ button {
   color: #f4f4fd;
 
   background: #4d5ae5;
-  transition-property: box-shadow;
+  transition-property: transform;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
